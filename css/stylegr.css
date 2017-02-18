@@ -1,0 +1,163 @@
+#cf1{
+  padding-top: 10px;
+  background-image: url(background.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 372px;
+  width: 100%;
+}
+
+.jumbotron{
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+}
+.discoverybox img{
+  height: 100%;
+  width: 100%;
+}
+.form-control{
+ margin-bottom: 5px;
+}
+
+.masthead{
+  padding-top: 45px;
+}
+}
+.masthead .slogan .center-block img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.masthead .new-account-box{
+
+}
+.fluid-containert .nav_bar{
+  margin-top: 0px;
+  font-size: 12px;
+}
+body{
+  font-size: 12px;
+}
+.left-container .sellingpoint .sellingpoint-left h2{
+    clear: both;
+    margin: 20px 0 10px 0;
+    color: #000;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 0px;
+}
+.left-container .sellingpoint .sellingpoint-left p{
+  color: #181818;
+  font-size: 13px;
+  text-align: left;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  margin: 18px 0;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.left-container .sellingpoint .sellingpoint-right h2{
+  clear: both;
+  margin: 20px 0 10px 0;
+  color: #000;
+  font-size: 18px;
+  text-align: left;
+  padding-left: 0px;
+}
+.left-container .sellingpoint .sellingpoint-right p{
+  color: #181818;
+  font-size: 13px;
+  text-align: left;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  margin: 18px 0;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.right-container .app-btn .left-btn .btn-default{
+  background-image: url(app-apple.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: 100%;
+  width: 100%;
+  height: 40px;
+}
+.right-container .app-btn .right-btn .btn-default{
+  background-image: url(app-google2.png);
+  background-size: 145px 40px;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 40px;
+  width: 140px;
+}
+.menu-inf .menu-inf-der .pull-right{
+  list-style-type: none;
+  display: inline-flex;
+}
+.menu-inf .menu-inf-izq .pull-left{
+  list-style-type: none;
+  display: inline-flex;
+}
+.searchbar-text{
+  font-size: 18px;
+  padding-left: 0px;
+}
+.searchbar .form-group .form-control{
+  background-image: url(search.png);
+  background-repeat: no-repeat;
+  background-position: right;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 15px;
+  margin-top: 10px;
+}
+.serve-ads{
+  background-color: #F4F1EA;
+  margin-top: 20px;
+  margin: 20px 0 10px 0;
+  color: #000;
+  font-size: 18px;
+  text-align: left;
+  border-bottom: 1px solid #D8D8D8;
+  width: 284px;
+  padding-right: 0px;
+}
+.serve-ads .serve-ads-head{
+    border-bottom: 1px solid #D8D8D8;
+}
+.serve-ads .first-book img{
+
+  height: 75px;
+  width: 50px;
+  padding-left: 0px;
+  padding-right: 0px;
+
+}
+.serve-ads .first-book .book-description p{
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 18px;
+  font-size: 12px;
+  color: #181818;
+  text-align: left;
+  width: 180px;
+}
+.serve-ads .first-book .book-description .link-head a{
+  color: black;
+  text-align: left;
+  text-decoration: underline;
+  cursor: auto;
+  font-size: 12px;
+  font-weight: bold;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 10px;
+
+}
+.serve-ads .first-book .book-description .link-head{
+  width: 170px;
+}
